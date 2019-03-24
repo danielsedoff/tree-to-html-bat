@@ -1,0 +1,8 @@
+This script opens a browser window with a tree of the current directory
+and all subdirectories. It uses the standard Windows utility, tree.exe.
+
+It is available for English/European and for Russian locales.
+
+This file is opened in cmd.exe (Windows only)
+
+
